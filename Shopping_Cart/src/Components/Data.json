@@ -1,0 +1,76 @@
+[ 
+
+  { 
+  
+  "name":"Potato", 
+  
+  "id":1, 
+  
+  "img":"https://www.mangopoint.in/wp-content/uploads/2020/11/brown-baby-potatoes-500x500-1.jpg",
+
+  "price":30, 
+  
+  "available":1, 
+  
+  "vendor":"Himachal Pvt Ltd", 
+  
+  "category":"Vegtables" 
+  
+  }, 
+  
+  { 
+  
+  "name":"Banana", 
+  
+  "id":2, 
+
+  "img":"https://cdn.mos.cms.futurecdn.net/42E9as7NaTaAi4A6JcuFwG-1200-80.jpg",
+  
+  "price":50, 
+  
+  "available":1, 
+  
+  "category":"Fruits",
+  
+  "vendor": "Organic farms"
+  
+  
+  }, 
+  
+  { 
+  
+  "name":"Drumsticks", 
+  
+  "id":3, 
+
+  "img":"https://www.commodityinsightsx.com/images/commodities/drumstick.jpg",
+  
+  "price":20, 
+  
+  "available":0, 
+  
+  "category":"Vegetables", 
+  
+  "vendor":"Mallikarjuna farms"
+  
+  }, 
+  
+  { 
+  
+  "name":"Orange", 
+  
+  "id":4, 
+
+  "img":"https://static8.depositphotos.com/1020804/884/i/600/depositphotos_8840885-stock-photo-orange-fruits-on-a-white.jpg",
+  
+  "price":25, 
+  
+  "available":1, 
+  
+  "vendor":"Nagpur farms", 
+  
+  "category":"Fruits" 
+  
+  } 
+  
+  ] 

@@ -1,0 +1,57 @@
+body{
+  background-color: #EFEFEF;
+}
+
+.pot{
+  margin-top: 10px;
+  width: 300px;
+  text-align: center;
+  height: 370px;
+  background-color: darkgray;
+  margin-right: 50%px;
+  box-shadow: 2px 2px 5px 5px  #F9F3DF;
+  margin-left: 30%;
+}
+
+img{
+
+  width: 300px;
+  height: 230px;
+}
+
+button {
+  margin-top: 0px;
+  color: red;
+  width: 80px;
+  height: 30px;
+  font-size: large;
+  font-weight: bold;
+  
+}
+
+.cart{
+  border-radius: 50px;
+  margin-top: 10px;
+  z-index: -1;
+  position: absolute;
+
+  width: 50px;
+  height: 50px;
+ 
+}
+
+.value{
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+ margin-left: 35px;
+ margin-top: 8px;
+
+}
+
+.headcart {
+  width: 60px;
+  height: 60px;
+ display: grid;
+ margin-left: 90%;
+}
